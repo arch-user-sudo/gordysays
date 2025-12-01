@@ -1,2 +1,2 @@
 # gordysays
-Main repository for gordysays
+Cowsays alternative with a Big Headed Boy
